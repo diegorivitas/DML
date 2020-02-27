@@ -2,7 +2,7 @@
 ## **INSERT**;<p>
 INSERT INTO <nombre-de-la-tabla> <br>
   [(atributo1,atributo2,...)] <br>
-  (VALUES(<valor1>,<valor2>...)OR SELECT...<p><p>
+  (VALUES(<valor1>,<valor2>...) OR SELECT...<p><p>
   
   
   ## **UPDATE**;<p>
@@ -12,6 +12,6 @@ UPDATE <nombre-de-la-tabla> <br>
        ....<br>
   [WHERE<predicado>] <p><p>
        
-  ##DELETE FROM<br>
+  ## **DELETE** FROM<br>
   <nombre_de_la_tabla><br>
   [WHERE<predicado>]
